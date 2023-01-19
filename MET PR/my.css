@@ -1,6 +1,6 @@
 .header {
     background: #030a3f;
-    
+
 }
 
 .header a {
@@ -15,20 +15,25 @@
 .header .logo {
     width: -webkit-fill-available;
 }
-.carousel img{
-    width:100%;
+
+.carousel img {
+    width: 100%;
 }
-.footer{
-    background: #030a3f; 
+
+.footer {
+    background: #030a3f;
 }
-.footer ul{
+
+.footer ul {
     list-style-type: none;
     color: #fff;
-    margin:24px 0px;
+    margin: 24px 0px;
 }
-.footer li{
-line-height: 24px;
+
+.footer li {
+    line-height: 24px;
 }
+
 .footer a {
     color: #fff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
