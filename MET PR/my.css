@@ -1,0 +1,30 @@
+.header {
+    background: #030a3f;
+    
+}
+
+.header a {
+    color: #fff;
+}
+
+.header .navbar-nav {
+    margin: revert;
+}
+
+.header .logo {
+    width: -webkit-fill-available;
+}
+.carousel img{
+    width:100%;
+}
+.footer{
+    background: #030a3f; 
+}
+.footer ul{
+    list-style-type: none;
+    color: #fff;
+    margin:24px 0px;
+}
+.footer li{
+line-height: 24px;
+}
